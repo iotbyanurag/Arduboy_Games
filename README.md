@@ -1,0 +1,1 @@
+# This is a simple game that uses onboard buttons to select a particular color on the screen and corresponding LED is lit on the board
